@@ -43,7 +43,7 @@ class NewFinanceFactoryOrder extends React.Component {
     
     if (loading) {
       return (
-        <div className="content-holder" style={{background: '#fff'}}>
+        <div className="content-holder" style={{background: '#ffffff'}}>
           <Skeleton />
         </div>
       )
